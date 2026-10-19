@@ -337,6 +337,7 @@ const LEVEL_FILL = {
   outLine([["cyn", "  ► InvisioVault"], ["dim", "      steganography vault"]]);
   outLine([["cyn", "  ► BAR"], ["dim", "               burn-after-reading privacy chat & secure file sharing"]]);
   outLine([["cyn", "  ► NetPulse"], ["dim", "          network performance & security monitor"]]);
+  outLine([["cyn", "  ► BuildWise_AI"], ["dim", "      instant civil-engineering feasibility engine & blueprint dossier"]]);
   gap();
 
   // Status / mission section
