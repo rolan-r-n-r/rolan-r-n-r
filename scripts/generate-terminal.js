@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 // Environment variables and file paths
-const LOGIN = process.env.GH_LOGIN || "Mrtracker-new";
+const LOGIN = process.env.GH_LOGIN || "rolan-r-n-r";
 const TOKEN = process.env.GITHUB_TOKEN || process.env.METRICS_TOKEN || "";
 const ART_FILE = path.join(__dirname, "..", "assets", "ascii-art.txt");
 const OUT_FILE = path.join(__dirname, "..", "assets", "terminal-intro.svg");

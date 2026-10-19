@@ -25,7 +25,7 @@ jobs:
       - name: Generate terminal SVG
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          GH_LOGIN: Mrtracker-new
+          GH_LOGIN: rolan-r-n-r
         run: node scripts/generate-terminal.js
 
       - name: Commit updated SVG
